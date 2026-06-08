@@ -3,6 +3,6 @@
 
 <img width="402" height="532" alt="image" src="https://github.com/user-attachments/assets/88e157a3-6cd1-4e42-a241-0923dd82801d" />
 
-## win系统放大镜，按键Z开启，放大区域跟随鼠标移动，X锁定放大窗口，放大区域仍跟随鼠标。
+## win系统放大镜，按键Z开启，放大区域跟随鼠标移动，X锁定放大窗口，放大区域仍跟随鼠标，需要安装pyautogui keyboard Pillow pywin32，激活环境执行pip install pyautogui keyboard Pillow pywin32。
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/11e37b8f-1874-472f-b2e0-82d74bbe9616" />
 
